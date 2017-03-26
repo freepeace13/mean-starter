@@ -1,0 +1,17 @@
+{
+  "name": "mean-starter",
+  "description": "Mean application starter",
+  "main": "index.js",
+  "authors": [
+    "Kin Basco"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/freepeace13/mean-starter",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.3",
+    "angular-resource": "^1.6.3",
+    "angular-ui-router": "^0.4.2"
+  }
+}
