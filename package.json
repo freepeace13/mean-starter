@@ -10,6 +10,9 @@
   "license": "BSD",
   "dependencies": {
     "express": "~4.15.2",
-    "jade": "~1.11.0"
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "body-parser": "~1.17.1",
+    "stylus": "~0.54.5"
   }
 }
